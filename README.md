@@ -1,2 +1,2 @@
 # OpenCV
-基于OpenCV的手势识别
+基于OpenCV的车辆识别和计数
